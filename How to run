@@ -1,0 +1,12 @@
+To run the game you should download this environment: https://drive.google.com/drive/folders/1zavWM4cbdIA3vTMZLlWtr0GXC5t0rvE1
+
+after setup DOS application you should put these files in one directory with the game assembly file then open DOS and type this commands.
+
+1- mount d "the drive in which the directory is" :/  (mountd d d:/).
+2- d:
+3- cd " the directory after the drive"
+4- masm "game file name".asm
+5-link "game file name".obj
+6- "game file name".exe
+
+now you can play.
